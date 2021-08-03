@@ -5,7 +5,7 @@
 <a href="#"><img title="Sha Bot" src="https://img.shields.io/badge/Sha Bot2.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/She-fi/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/ameer-kallumthodi"><img title="Author" src="https://img.shields.io/badge/Shafeeq-kp/Sophia?color=blue&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
