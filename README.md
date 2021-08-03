@@ -9,7 +9,7 @@
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://youtube.com/c/ICHUTECH">Shafeeq</a> to make it public
+Project created by <a href="https://tinyurl.com/yzggupur">Shafeeq</a> to make it public
     <br>
        | © |
         Reserved |
