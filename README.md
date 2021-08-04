@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img border-radius: 15px src="https://tinyurl.com/ydpgv4nz.jpeg" width="200" height="200"/>
+  <img border-radius: 15px src="https://i.imgur.com/YeSLeMG.jpeg" width="200" height="200"/>
   <p align="center">
 <a href="#"><img title="Sha Bot" src="https://img.shields.io/badge/Sha Bot2.0-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
